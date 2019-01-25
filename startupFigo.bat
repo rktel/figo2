@@ -1,0 +1,2 @@
+echo OFF
+start meteor  
